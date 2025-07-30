@@ -1,0 +1,4 @@
+generate_readme.py
+.env
+node_modules
+.fileignore
